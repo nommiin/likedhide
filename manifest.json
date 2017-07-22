@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "likedhide",
   "author": "nommiin",
-  "description": "hide twitter's forced "liked tweets" tweets in your timeline",
+  "description": "hide twitter's forced \"liked tweets\" tweets in your timeline",
   "version": "0.1",
   "content_scripts": [
     {
